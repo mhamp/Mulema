@@ -9,11 +9,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Anmelden &lsaquo; Mulema &#8211; African Fashion made in Germany &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='/https://mhamp.github.io/Mulema/wp-includes/css/dashicons.min.css?ver=5.2.3' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='/https://mhamp.github.io/Mulema/wp-includes/css/buttons.min.css?ver=5.2.3' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='/https://mhamp.github.io/Mulema/wp-admin/css/forms.min.css?ver=5.2.3' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='/https://mhamp.github.io/Mulema/wp-admin/css/l10n.min.css?ver=5.2.3' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='/https://mhamp.github.io/Mulema/wp-admin/css/login.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://localhost/https:/mhamp.github.io/Mulema/wp-includes/css/dashicons.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='http://localhost/https:/mhamp.github.io/Mulema/wp-includes/css/buttons.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='http://localhost/https:/mhamp.github.io/Mulema/wp-admin/css/forms.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='http://localhost/https:/mhamp.github.io/Mulema/wp-admin/css/l10n.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='http://localhost/https:/mhamp.github.io/Mulema/wp-admin/css/login.min.css?ver=5.2.3' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -22,7 +22,7 @@
 		<div id="login">
 		<h1><a href="https://de.wordpress.org/">Powered by WordPress</a></h1>
 	
-	<form name="loginform" id="loginform" action="/https://mhamp.github.io/Mulema/wp-login.php" method="post">
+	<form name="loginform" id="loginform" action="http://localhost/https:/mhamp.github.io/Mulema/wp-login.php" method="post">
 	<p>
 		<label for="user_login">Benutzername oder E-Mail-Adresse<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" /></label>
@@ -40,7 +40,7 @@
 	</form>
 
 			<p id="nav">
-					<a href="/https://mhamp.github.io/Mulema/wp-login.php?action=lostpassword">Passwort vergessen?</a>
+					<a href="http://localhost/https:/mhamp.github.io/Mulema/wp-login.php?action=lostpassword">Passwort vergessen?</a>
 				</p>
 	
 	<script type="text/javascript">
@@ -57,7 +57,7 @@
 			if(typeof wpOnload=='function')wpOnload();
 			</script>
 
-			<p id="backtoblog"><a href="/https://mhamp.github.io/Mulema/">
+			<p id="backtoblog"><a href="http://localhost/https:/mhamp.github.io/Mulema/">
 		&larr; Zurück zu Mulema &#8211; African Fashion made in Germany	</a></p>
 			
 	</div>
