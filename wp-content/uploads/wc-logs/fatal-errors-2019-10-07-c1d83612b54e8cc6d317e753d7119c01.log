@@ -1,2 +1,8 @@
 2019-10-07T20:46:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\Mulema\wp-includes\Requests\Transport\cURL.php on line 441
 
+2019-10-07T21:19:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\Mulema\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-10-07T21:24:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\Mulema\wp-includes\class-wp-image-editor-gd.php on line 189
+
+2019-10-07T22:09:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\Mulema\wp-includes\wp-db.php on line 2007
+
